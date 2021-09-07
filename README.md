@@ -15,43 +15,43 @@
 
 #### :computer: Langages et technologies :
 <br>
+<div align="center">
 <div>
 <a href="https://en.wikipedia.org/wiki/HTML">
   <img alt="html" src="https://devstickers.com/assets/img/pro/iqm9.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/CCS3">
   <img alt="css" src="https://devstickers.com/assets/img/pro/8pnd.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img alt="javascript" src="https://devstickers.com/assets/img/pro/i4eg.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.php.net/">
   <img alt="php" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/131px-PHP-logo.svg.png" height="60">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://symfony.com/">
   <img alt="symfony" src="https://w3h7y6p9.stackpathcdn.com/wp-content/uploads/2017/03/symfony_logo_vertical.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://semantic-ui.com/">
   <img alt="semantic" src="https://grafikart.fr/uploads/icons/semantic-ui.svg" width="75">
-</a>&nbsp;
+</a>
+  </div>
+  <div>
 <a href="https://www.java.com/">
   <img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://fr.wordpress.org/">
   <img alt="wordpress" src="https://wpformation.com/wp-content/uploads/2019/08/wordpress-brands.png.webp" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.android.com/">
   <img alt="android" src="https://devstickers.com/assets/img/pro/zl8i.png" width="80">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/fr/">
   <img alt="mysql" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-220px-MySQL.svg.png" width="100">
-</a>
-</div>
-<br>
-<div>
+</a>&nbsp;&nbsp;
 <a href="https://balsamiq.com/">
   <img alt="balsamiqMockups" src="https://blog.balsamiq.com/wp-content/uploads/2017/09/Balsamiq-Wireframes-Thumbnail-Final-0.png" width="110">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 <a href="https://www.umlet.com/">
   <img alt="umlet" src="https://www.umlet.com/pic/UMLet_logo_small.png" width="75">
 </a>
@@ -68,6 +68,7 @@
   <img alt="eclipse" src="https://camo.githubusercontent.com/fe0556b888413cca3d7620c42a68eedcc976c04cd3d5512e68531896d76c2d1c/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d2d4944766a5052436169632f5673394644446676484f492f41414141414141414244552f35756d6c615f36516a42492f73313630302f45636c697073652d6c756e612e706e67" height="70"> 
 </a>
 </div>
+  </div>
 <br>
 
 ##
