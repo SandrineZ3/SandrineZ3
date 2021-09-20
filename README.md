@@ -73,7 +73,7 @@
 
 ##
 #### :handshake: Me contacter via LinkedIn :
-<a href="https://www.linkedin.com/in/sandrine-zaborowski-089351204/" target="_blank"><img alt="sandrinezaborowski | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/></a>
+<a href="https://www.linkedin.com/in/sandrine-zaborowski-089351204/" target="_blank"><img alt="sandrinezaborowski | LinkedIn" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/512px-LinkedIn_Logo_2013.svg.png"/></a>
 
 ##
 #### :hearts: Merci de votre visite !
