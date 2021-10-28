@@ -9,7 +9,7 @@
 ##
 
 <p align="justify">Ayant terminé ma formation de <b>Développeuse Web et Web mobile</b> à l'<b>ENI Ecole Informatique</b>, je souhaite poursuivre dans le domaine du développement en tant que <b>Conceptrice développeuse d'applications</b>.</p> 
-<p>Je recherche une <b>alternance</b> à partir du mois de septembre 2021.</p>
+<p>Disponible immédiatement, je recherche une <b>alternance</b> afin de faire évoluer mes compétences.</p>
 
 ##
 
