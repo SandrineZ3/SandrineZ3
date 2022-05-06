@@ -2,7 +2,7 @@
 <h3>Sandrine ZABOROWSKI</h3>
 <h4> 
   
- _Développeuse Web et Web Mobile_ 
+ _Alternante - Conceptrice développeuse d'applications_ 
 
 </h4>
 
@@ -36,7 +36,13 @@
 </a>&nbsp;&nbsp;
 <a href="https://symfony.com/">
   <img alt="symfony" src="https://w3h7y6p9.stackpathcdn.com/wp-content/uploads/2017/03/symfony_logo_vertical.png" width="80">
+</a>
+<a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/">
+  <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736" height="100">
 </a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+  <img alt="ASP.Net" src="https://msaccesssolutions.com/images/asp-net-logo.png" width="85">
+</a>
 </div>
 <div>
 <a href="https://fr.wordpress.org/">
@@ -61,7 +67,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://semantic-ui.com/">
   <img alt="semantic" src="https://grafikart.fr/uploads/icons/semantic-ui.svg" width="70">
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com/">
   <img alt="semantic" src="https://ecofemina.fr/wp-content/uploads/2016/03/bootstrap-logo.jpg" width="70">
 </a>
@@ -76,6 +82,9 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-developers">
   <img alt="eclipse" src="https://camo.githubusercontent.com/fe0556b888413cca3d7620c42a68eedcc976c04cd3d5512e68531896d76c2d1c/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d2d4944766a5052436169632f5673394644446676484f492f41414141414141414244552f35756d6c615f36516a42492f73313630302f45636c697073652d6c756e612e706e67" height="70"> 
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com/fr/">
+  <img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/120px-Visual_Studio_Icon_2019.svg.png" width="65">
 </a>
 </div>
 </div>
